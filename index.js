@@ -1,4 +1,5 @@
 /* eslint-disable no-console */
+require('dotenv').config();
 const { Daemon, FunctionParser } = require('functionscript');
 const cluster = require('cluster');
 

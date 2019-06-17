@@ -13,6 +13,7 @@
     "node": "10.x"
   },
   "dependencies": {
+    "dotenv": "^8.0.0",
     "functionscript": "^1.0.6",
     "lib": "^4.0.2",
     "mime": "^2.4.4"
